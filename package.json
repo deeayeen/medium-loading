@@ -9,7 +9,7 @@
     "react-fade-in": "^0.1.6",
     "react-loading": "^2.0.3",
     "react-lottie": "^1.2.3",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
